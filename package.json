@@ -1,17 +1,17 @@
 {
-  "name": "homebridge-dummy",
-  "version": "0.9.0",
-  "description": "Dummy switches for Homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-dummy-incline02-beta",
+  "version": "0.9.1",
+  "description": "Dummy switches for Homebridge: https://github.com/incline02/homebridge-dummy",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge-dummy.git"
+    "url": "git://github.com/incline02/homebridge-dummy.git"
   },
   "bugs": {
-    "url": "http://github.com/nfarina/homebridge-dummy/issues"
+    "url": "http://github.com/incline02/homebridge-dummy/issues"
   },
   "engines": {
     "node": ">=0.12.0",
